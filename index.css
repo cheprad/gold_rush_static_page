@@ -3,7 +3,7 @@
     left: 0;
     position: relative;
     background-attachment: fixed;
-    background-position: center;
+    background-position: top left;
     background-repeat: no-repeat;
     background-size: cover;
 }
