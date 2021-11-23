@@ -1,0 +1,9 @@
+.responsive_fullscreen_header {
+    background: url('https://routledgetextbooks.com/textbooks/criticalmoments/titles/9780415731843/img/bg.jpg') repeat scroll center center / cover #333333;
+    left: 0;
+    position: relative;
+    background-attachment: fixed;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
